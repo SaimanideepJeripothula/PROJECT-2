@@ -1,0 +1,9 @@
+◦ Led a regression project analysing adipose tissue data and waist circumference to model relationships. 
+◦ Employed statistical techniques and machine learning algorithms to derive predictive insights with 95% accuracy. 
+◦ Achieved a robust regression model, providing a nuanced understanding of factors influencing waist circumference. 
+◦ Presented findings to the research team, contributing valuable insights for future health analytic s projects including models
+◦ like forecasting, PCA, Support Vector Machine, Decision tree, Neural Networks in projects. 
+◦ Conducted testing and analysed the results to optimize model performance and enhance decision-making by 30%. 
+◦ Engaged in weekly team meetings to discuss project progress, challenges, and brainstorm solutions. 
+◦ Documented detailed project methodologies, outcomes, and strategic recommendations to technical and non-technical 
+◦ stakeholders, resulting in a 20% increase in project approval rates and a 15% improvement in cross-functional collaboration.
